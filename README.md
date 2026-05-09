@@ -1,4 +1,8 @@
 # High Performance ESP32-S3 Custom Development Board
+![KiCad Version](https://img.shields.io/badge/KiCad-9.0-blue?style=for-the-badge&logo=kicad&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)
+![PCB Layers](https://img.shields.io/badge/PCB-4--Layer-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Production--Ready-success?style=for-the-badge)
 
 ![3D Render](Images/RENDER4.png)
 ## 📌 Project Overview
