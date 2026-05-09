@@ -42,7 +42,7 @@ A dedicated **RF Keep-Out Zone** has been implemented under the ESP32-S3 antenna
 ---
 
 ## 💬 Connect with Me
-For more hardware projects and updates, follow me on [LinkedIn]([www.linkedin.com/in/azatkaya1](https://www.linkedin.com/feed/))
+For more hardware projects and updates, follow me on [LinkedIn](www.linkedin.com/in/azat-kaya-625a27332)
 
 
 **Designed by Azat KAYA**
