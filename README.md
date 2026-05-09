@@ -2,7 +2,7 @@
 
 ![3D Render](Images/RENDER4.png)
 ## 📌 Project Overview
-This project is an advanced, production-ready development board based on the **ESP32-S3-WROOM-1** module. It was designed with a focus on signal integrity, power stability, and professional hardware standards. The design features a **4-layer PCB stackup**, optimized RF performance, and high-speed differential signal routing.
+This project is an advanced, production-ready development board based on the **ESP32-S3-WROOM-1** module. It was designed with a focus on signal integrity, power stability, and professional hardware standards. The design features a 4-layer PCB stackup, optimized RF performance, and high-speed differential signal routing.
 
 ## 🛠 Technical Specifications
 
