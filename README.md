@@ -39,8 +39,10 @@ A dedicated **RF Keep-Out Zone** has been implemented under the ESP32-S3 antenna
 * **/Manufacturing**: Gerber, Drill, and POS files (Production Ready).
 * **/Images**: High-quality 3D renders and schematic captures.
 
-## 📜 License
-This project is licensed under the MIT License.
-
 ---
-**Designed by Azat Kaya**
+
+## 💬 Connect with Me
+For more hardware projects and updates, follow me on [LinkedIn](www.linkedin.com/in/azatkaya1)
+
+
+**Designed by Azat KAYA**
