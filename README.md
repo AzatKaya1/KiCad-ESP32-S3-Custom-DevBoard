@@ -21,7 +21,7 @@ Designed for signal integrity, RF performance, and professional-grade hardware s
 
 </div>
 
----
+
 
 ## 📋 Table of Contents
 
@@ -34,7 +34,7 @@ Designed for signal integrity, RF performance, and professional-grade hardware s
 - [Repository Structure](#-repository-structure)
 - [Manufacturing](#-manufacturing)
 
----
+
 
 ## 🔍 Overview
 
@@ -47,7 +47,7 @@ This project is an advanced, **production-ready development board** based on the
 
 This board is suited for makers, engineers, and students who want a reliable ESP32-S3 platform for IoT, wireless communication, sensor integration, or embedded systems development.
 
----
+
 
 ## ✨ Key Features
 
@@ -64,7 +64,7 @@ This board is suited for makers, engineers, and students who want a reliable ESP
 | 🔘 Buttons | RESET (EN) + BOOT (GPIO0) |
 | 🧪 Test Points | 5V, 3.3V, GND, TX, RX (TP1–TP5) |
 
----
+
 
 ## 🛠 Technical Specifications
 
@@ -81,7 +81,7 @@ This board is suited for makers, engineers, and students who want a reliable ESP
 | USB Interface | Native USB (D+/D- differential pair) |
 | Programming | USB-C (native), UART via test points |
 
----
+
 
 ## 🔬 Advanced Hardware Design
 
@@ -124,7 +124,7 @@ The **AMS1117-3.3** was chosen for its:
 - Bulk capacitance at the LDO output for transient response
 - Ferrite bead filtering on power input
 
----
+
 
 ## 📐 PCB Layer Stackup
 
@@ -135,7 +135,6 @@ The **AMS1117-3.3** was chosen for its:
 | Layer 3 | Power Plane | Solid 3.3V pour — stable power delivery |
 | Layer 4 (Bottom) | Signal | Additional routing |
 
----
 
 ## 🔌 Pinout & Peripherals
 
@@ -148,7 +147,6 @@ The **AMS1117-3.3** was chosen for its:
 | GPIO | Spare GPIO pins for custom expansion |
 | Test Points | TP1 = 5V · TP2 = 3.3V · TP3 = GND · TP4 = TX · TP5 = RX |
 
----
 
 ## 📂 Repository Structure
 
@@ -161,7 +159,6 @@ The **AMS1117-3.3** was chosen for its:
 | `LICENSE` | MIT License |
 | `README.md` | This file |
 
----
 
 ## 🏭 Manufacturing
 
@@ -194,11 +191,3 @@ The `/Manufacturing` folder contains all files needed for PCB fabrication, compa
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Azat%20KAYA-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/azatkaya1/?skipRedirect=true)
 
 *If this project helped you, consider giving it a ⭐ on GitHub!*
-
-</div>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Azat%20KAYA-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/azatkaya1/?skipRedirect=true)
-
-*If this project helped you, consider giving it a ⭐ on GitHub!*
-
-</div>
