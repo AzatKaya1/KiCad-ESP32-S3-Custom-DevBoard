@@ -35,14 +35,14 @@ A dedicated **RF Keep-Out Zone** has been implemented under the ESP32-S3 antenna
 * **Monitoring:** On-board test points allow for real-time voltage and logic monitoring with an oscilloscope or multimeter.
 
 ## 📂 Repository Structure
-* **/Hardware**: KiCad 8.0 project files (`.kicad_pcb`, `.kicad_sch`).
+* **/Hardware**: KiCad 9.0 project files (`.kicad_pcb`, `.kicad_sch`).
 * **/Manufacturing**: Gerber, Drill, and POS files (Production Ready).
 * **/Images**: High-quality 3D renders and schematic captures.
 
 ---
 
 ## 💬 Connect with Me
-For more hardware projects and updates, follow me on [LinkedIn](www.linkedin.com/in/azat-kaya-625a27332)
+For more hardware projects and updates, follow me on [LinkedIn](https://www.linkedin.com/in/azatkaya1/?skipRedirect=true)
 
 
 **Designed by Azat KAYA**
