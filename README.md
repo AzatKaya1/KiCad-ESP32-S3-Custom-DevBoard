@@ -12,7 +12,7 @@ This project is an advanced, production-ready development board based on the **E
 | **Input Voltage** | 5V DC via USB-C Interface |
 | **Regulation** | 3.3V Main Regulation via AMS1117-3.3 LDO |
 | **PCB Stackup** | 4-Layer (Signal - GND - Power - Signal) |
-| **Programming** | Native USB-C (USB CDC/JTAG) |
+| **Programming** | Native USB-C |
 | **Buttons** | Reset (EN) and Bootloader (BOOT) |
 | **Indicators** | Power LED (D1) & User-Programmable LED (D2) |
 | **Test Points** | 5V, 3.3V, GND, TX, RX (TP1 - TP5) |
