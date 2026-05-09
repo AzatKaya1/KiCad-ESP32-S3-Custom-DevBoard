@@ -16,7 +16,7 @@ This project is an advanced, production-ready development board based on the **E
 | **Buttons** | Reset (EN) and Bootloader (BOOT) |
 | **Indicators** | Power LED (D1) & User-Programmable LED (D2) |
 | **Test Points** | 5V, 3.3V, GND, TX, RX (TP1 - TP5) |
-| **Analog Input** | 2x Dedicated ADC Channels (ADC1_ch6, ADC2_ch8) |
+| **Analog Input** | 2x Dedicated ADC Channels |
 
 ## 🚀 Advanced Hardware Features
 
