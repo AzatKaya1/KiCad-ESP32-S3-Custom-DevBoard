@@ -9,6 +9,7 @@
 <img src="Images/RENDER4.png" alt="ESP32-S3 Custom DevBoard 3D Render" width="800"/>
 
 <br/>
+
 **A production-grade, 4-layer PCB development board built around the ESP32-S3-WROOM-1 module.**  
 Designed for signal integrity, RF performance, and professional-grade hardware standards.
 
