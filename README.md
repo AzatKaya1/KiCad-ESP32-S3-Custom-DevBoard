@@ -1,13 +1,14 @@
+
+<div align="center">
+
 # ⚡ ESP32-S3 Custom Development Board
 
-
+</div>
 <div align="center">
 
 <img src="Images/RENDER4.png" alt="ESP32-S3 Custom DevBoard 3D Render" width="800"/>
 
 <br/>
-
-
 **A production-grade, 4-layer PCB development board built around the ESP32-S3-WROOM-1 module.**  
 Designed for signal integrity, RF performance, and professional-grade hardware standards.
 
@@ -45,8 +46,7 @@ This project is an advanced, **production-ready development board** based on the
 - ✅ **RF Performance** — Dedicated keep-out zone under the module antenna
 - ✅ **Professional Standards** — 4-layer stackup, differential pair routing
 
-This board is suited for makers, engineers, and students who want a reliable ESP32-S3 platform for IoT, wireless communication, sensor integration, or embedded systems development.
-
+This board is suitable for makers, engineers, and students who want a reliable ESP32-S3 platform for IoT, wireless communication, sensor integration, or embedded systems development.
 
 
 ## ✨ Key Features
