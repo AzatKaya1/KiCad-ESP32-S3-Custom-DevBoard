@@ -1,4 +1,4 @@
-# High-Performance ESP32-S3 Custom Development Board (4-Layer)
+# High Performance ESP32-S3 Custom Development Board
 
 ![3D Render](Images/RENDER4.png)
 ## 📌 Project Overview
