@@ -191,4 +191,4 @@ The `/Manufacturing` folder contains all files needed for PCB fabrication, compa
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Azat%20KAYA-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/azatkaya1/?skipRedirect=true)
 
-a*If this project helped you, consider giving it a ⭐ on GitHub!*
+*If this project helped you, consider giving it a ⭐ on GitHub!*
